@@ -72,7 +72,7 @@ Malo	Renaudin
 Nicolas	Schroeder X
 Rong	Shen X
 Charles	Siret X
-Hadrien	Strichard
+Hadrien	Strichard X
 Eva	Toledano x
 Tim	Valencony X
 Antonio Roberto	Ventura X
