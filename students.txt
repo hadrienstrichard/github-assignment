@@ -1,4 +1,5 @@
 First name	Last name
+
 Nadiy	Abdel Karim Dit Aramouni X
 Aadhar	Agarwal X
 Dogbo	Agbre X
@@ -24,7 +25,7 @@ Ghali	Chraibi X
 Tess	Coullon X
 Jules	Crevola X
 Matteo Alessandro	D'Alessandro
-Valentine	Dana
+Valentine	Dana X
 Solal	Danan x
 Charles	De Cian  X
 Augustin	De Saint Affrique X
@@ -34,7 +35,7 @@ Alexandre	Foulon X
 Antoine	Gosset X
 Léopold	Guichot  X
 Nacer	Hadni X
-Houcine	Hassani Idrissi
+Houcine	Hassani Idrissi X
 Gaspard	Hassenforder X
 Farah	Jabri X
 Thibault	Jauneau X
@@ -67,7 +68,7 @@ Carlo Antonio	Patti X
 Julien	Pezzi x
 Trung Dan	Phan
 Auguste	Piromalli X
-Aubry	Poitevin
+Aubry	Poitevin x
 Malo	Renaudin
 Nicolas	Schroeder X
 Rong	Shen X
@@ -80,7 +81,7 @@ Khushi	Verma
 Henri	Vignial X
 Khushi	VermaX
 Chenfei	Wang X
-Mingyu	Wang
+Mingyu	Wang X
 Fangzhou	Xu X
 Jialong Xu X	
 Zhongyuan	Zhang X
